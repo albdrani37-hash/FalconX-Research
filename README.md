@@ -1,41 +1,16 @@
-FalconX Research
+# FalconX Research
 
-FalconX Research is focused on understanding real market behavior beyond traditional indicators and simplified models.
+Research directions for an independent quantitative-automation project.
 
-The objective is not to generate signals, but to study how markets actually move, react, and evolve under different conditions.
+## Areas of interest
 
-Research Focus
+- Market pressure and changes in buying/selling activity
+- Liquidity dynamics and market microstructure
+- Market regimes and transitions
+- Execution behavior, operational constraints and system evaluation
 
-Market Pressure ModelingUnderstanding how buying and selling pressure accumulates and releases
+## Status and scope
 
-Liquidity DynamicsAnalyzing how liquidity appears, disappears, and impacts price movement
+This repository currently presents research directions and notes. It does not distribute the core trading engine, a reproducible trading-performance dataset or independently validated investment results. Research questions and design goals should not be read as established findings.
 
-Market Regime BehaviorIdentifying transitions between trend, range, and high volatility states
-
-Execution BehaviorStudying how order execution interacts with real market structure
-
-Philosophy
-
-Most trading systems fail because they rely on static indicators and simplified assumptions.
-
-FalconX Research takes a different direction:
-
-Focus on behavior, not indicatorsFocus on structure, not signalsFocus on execution, not prediction
-
-Purpose
-
-This repository exists to document ideas, experiments, and observations related to:
-
-quantitative trading systems
-
-market microstructure
-
-execution intelligence
-
-adaptive trading models
-
-Note
-
-This repository does not include the FalconX core trading engine or proprietary execution logic.
-
-It is intended to present the research direction behind the syste
+For concrete implementation samples and their evidence, see the [selected technical portfolio](https://github.com/albdrani37-hash/FalconX/blob/main/PORTFOLIO.md). The separate [AgentDojo Trace Audit](https://github.com/albdrani37-hash/agentdojo-trace-audit) project documents AI-agent evaluation research and its own limitations.
